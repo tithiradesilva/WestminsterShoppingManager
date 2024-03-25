@@ -1,0 +1,37 @@
+Product Type - Electronic
+Product ID - 001
+Product Name - washingMachine
+Products Available - 10
+Product Price - 20000.0
+Product Brand - Samsung
+Product warranty period - 5
+
+Product Type - Clothing
+Product ID - 002
+Products Available - 4
+Product Price - 2000.0
+Product Size - Medium
+Product colour - Black
+
+Product Type - Electronic
+Product ID - 003
+Product Name - preasureCoocker
+Products Available - 3
+Product Price - 12000.0
+Product Brand - Fantech
+Product warranty period - 4
+
+Product Type - Clothing
+Product ID - 004
+Products Available - 6
+Product Price - 1200.0
+Product Size - Small
+Product colour - White
+
+Product Type - Clothing
+Product ID - 005
+Products Available - 8
+Product Price - 2000.0
+Product Size - Medium
+Product colour - Blue
+
